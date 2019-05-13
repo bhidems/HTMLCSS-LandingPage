@@ -140,7 +140,7 @@ section { display: flex; }
 }
 .full-banner {
     padding: 0 15px;
-    margin: 50px 50px;
+    margin: 50px 0px;
     position: relative;
 }
 .full-banner:before {
@@ -193,7 +193,7 @@ section { display: flex; }
     letter-spacing: 3px;
 }
 .full-banner-sidebar .btn.btn-default {
-    margin: 50px;
+    margin-top: 50px;
     text-transform: uppercase;
     letter-spacing: 1px;
     z-index: 1;
